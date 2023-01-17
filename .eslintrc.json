@@ -1,0 +1,10 @@
+{
+  "extends": ["standard", "standard-jsx"],
+
+  "rules": {
+    "comma-dangle": "off",
+    "no-trailing-spaces": "off",
+    "no-multiple-empty-lines": "off",
+    "space-before-function-paren": "off"
+  }
+}

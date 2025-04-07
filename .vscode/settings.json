@@ -1,0 +1,19 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.oxc": "explicit",
+    "source.organizeImports": "explicit",
+    "source.addMissingImports": "explicit",
+    "source.removeUnusedImports": "explicit"
+  },
+
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+
+  "editor.quickSuggestions": {
+    "strings": "on"
+  }
+}

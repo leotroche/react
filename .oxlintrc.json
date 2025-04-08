@@ -1,8 +1,0 @@
-{
-  "rules": {
-    "react-hooks/exhaustive-deps": "warn",
-    "react-hooks/rules-of-hooks": "warn",
-    "typescript/consistent-type-definitions": "warn",
-    "typescript/consistent-type-imports": "warn"
-  }
-}
